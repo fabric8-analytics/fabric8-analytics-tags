@@ -1,0 +1,848 @@
+accumulo:
+  occurrence_count: 1
+actor:
+  occurrence_count: 38
+admin:
+  occurrence_count: 12
+ads:
+  occurrence_count: 1
+agent:
+  occurrence_count: 4
+akka:
+  occurrence_count: 34
+algebra:
+  occurrence_count: 1
+amazon:
+  occurrence_count: 11
+amqp:
+  occurrence_count: 8
+analysis:
+  occurrence_count: 6
+analytics:
+  occurrence_count: 5
+analyzer:
+  occurrence_count: 3
+android:
+  occurrence_count: 126
+angular:
+  occurrence_count: 29
+angularjs:
+  occurrence_count: 2
+annotations:
+  occurrence_count: 14
+ansi:
+  occurrence_count: 1
+ant:
+  occurrence_count: 8
+aop:
+  occurrence_count: 3
+apache:
+  occurrence_count: 250
+api:
+  occurrence_count: 145
+appengine:
+  occurrence_count: 6
+application:
+  occurrence_count: 89
+archetype:
+  occurrence_count: 41
+aspect:
+  occurrence_count: 3
+assembly:
+  occurrence_count: 5
+assets:
+  occurrence_count: 193
+asynchronous:
+  occurrence_count: 7
+authentication:
+  occurrence_count: 25
+authorization:
+  occurrence_count: 1
+automation:
+  occurrence_count: 1
+avro:
+  occurrence_count: 10
+aws:
+  occurrence_count: 16
+azure:
+  occurrence_count: 3
+base64:
+  occurrence_count: 1
+batch:
+  occurrence_count: 1
+beans:
+  occurrence_count: 3
+benchmark:
+  occurrence_count: 2
+bigdata:
+  occurrence_count: 1
+binary:
+  occurrence_count: 1
+binding:
+  occurrence_count: 24
+bootstrap:
+  occurrence_count: 15
+bpm:
+  occurrence_count: 15
+bridge:
+  occurrence_count: 6
+broker:
+  occurrence_count: 4
+browser:
+  occurrence_count: 1
+buffer:
+  occurrence_count: 2
+build:
+  occurrence_count: 111
+build-system:
+  occurrence_count: 108
+builder:
+  occurrence_count: 8
+bundle:
+  occurrence_count: 22
+business:
+  occurrence_count: 3
+bytecode:
+  occurrence_count: 4
+cache:
+  occurrence_count: 18
+camel:
+  occurrence_count: 37
+camera:
+  occurrence_count: 1
+cassandra:
+  occurrence_count: 10
+chart:
+  occurrence_count: 1
+cli:
+  occurrence_count: 3
+client:
+  occurrence_count: 79
+clojure:
+  occurrence_count: 2
+cloud:
+  occurrence_count: 29
+cluster:
+  occurrence_count: 17
+cms:
+  occurrence_count: 6
+code-coverage:
+  occurrence_count: 3
+codec:
+  occurrence_count: 7
+codehaus:
+  occurrence_count: 38
+collections:
+  occurrence_count: 3
+collector:
+  occurrence_count: 3
+command-line:
+  occurrence_count: 16
+commons:
+  occurrence_count: 1
+communication:
+  occurrence_count: 2
+compatibility:
+  occurrence_count: 2
+compiler:
+  occurrence_count: 15
+computing:
+  occurrence_count: 1
+concurrency:
+  occurrence_count: 35
+config:
+  occurrence_count: 25
+connection:
+  occurrence_count: 4
+connector:
+  occurrence_count: 13
+console:
+  occurrence_count: 12
+consul:
+  occurrence_count: 2
+consumer:
+  occurrence_count: 4
+container:
+  occurrence_count: 17
+controller:
+  occurrence_count: 5
+coordination:
+  occurrence_count: 1
+couchdb:
+  occurrence_count: 1
+cpu:
+  occurrence_count: 1
+crud:
+  occurrence_count: 1
+cryptography:
+  occurrence_count: 3
+css:
+  occurrence_count: 5
+csv:
+  occurrence_count: 8
+dao:
+  occurrence_count: 4
+dashboard:
+  occurrence_count: 4
+data:
+  occurrence_count: 27
+database:
+  occurrence_count: 49
+datasource:
+  occurrence_count: 4
+date:
+  occurrence_count: 3
+debug:
+  occurrence_count: 5
+dependency-injection:
+  occurrence_count: 12
+deployment:
+  occurrence_count: 4
+descriptor:
+  occurrence_count: 1
+desktop:
+  occurrence_count: 5
+device:
+  occurrence_count: 3
+diagram:
+  occurrence_count: 3
+diff:
+  occurrence_count: 1
+directory:
+  occurrence_count: 16
+discovery:
+  occurrence_count: 5
+dispatcher:
+  occurrence_count: 1
+distributed:
+  occurrence_count: 39
+distribution:
+  occurrence_count: 5
+dns:
+  occurrence_count: 2
+doc:
+  occurrence_count: 24
+docker:
+  occurrence_count: 4
+dom:
+  occurrence_count: 4
+driver:
+  occurrence_count: 5
+dsl:
+  occurrence_count: 5
+dynamodb:
+  occurrence_count: 3
+eclipse:
+  occurrence_count: 61
+editor:
+  occurrence_count: 8
+ejb:
+  occurrence_count: 13
+elastic:
+  occurrence_count: 8
+elasticsearch:
+  occurrence_count: 8
+embedded:
+  occurrence_count: 14
+encryption:
+  occurrence_count: 1
+engine:
+  occurrence_count: 8
+erlang:
+  occurrence_count: 1
+esb:
+  occurrence_count: 20
+etcd:
+  occurrence_count: 2
+evaluation:
+  occurrence_count: 4
+event:
+  occurrence_count: 7
+eventbus:
+  occurrence_count: 1
+example:
+  occurrence_count: 123
+excel:
+  occurrence_count: 2
+experimental:
+  occurrence_count: 4
+export:
+  occurrence_count: 5
+expression:
+  occurrence_count: 1
+extension:
+  occurrence_count: 31
+facebook:
+  occurrence_count: 3
+factory:
+  occurrence_count: 4
+file-system:
+  occurrence_count: 2
+filtering:
+  occurrence_count: 7
+fluent:
+  occurrence_count: 1
+font:
+  occurrence_count: 3
+forms:
+  occurrence_count: 4
+foursquare:
+  occurrence_count: 1
+framework:
+  occurrence_count: 24
+frontend:
+  occurrence_count: 5
+ftp:
+  occurrence_count: 3
+functional:
+  occurrence_count: 8
+gateway:
+  occurrence_count: 7
+generator:
+  occurrence_count: 21
+geo:
+  occurrence_count: 9
+git:
+  occurrence_count: 9
+github:
+  occurrence_count: 308
+google:
+  occurrence_count: 26
+gradle:
+  occurrence_count: 18
+grails:
+  occurrence_count: 2
+graph:
+  occurrence_count: 11
+graphics:
+  occurrence_count: 3
+groovy:
+  occurrence_count: 28
+grpc:
+  occurrence_count: 3
+gwt:
+  occurrence_count: 27
+hadoop:
+  occurrence_count: 23
+hash:
+  occurrence_count: 1
+hazelcast:
+  occurrence_count: 2
+hbase:
+  occurrence_count: 5
+hibernate:
+  occurrence_count: 13
+hsql:
+  occurrence_count: 2
+html:
+  occurrence_count: 4
+http:
+  occurrence_count: 40
+i18n:
+  occurrence_count: 3
+ibm:
+  occurrence_count: 6
+ide:
+  occurrence_count: 12
+identity:
+  occurrence_count: 1
+image:
+  occurrence_count: 5
+imap:
+  occurrence_count: 2
+import:
+  occurrence_count: 1
+index:
+  occurrence_count: 6
+instrumentation:
+  occurrence_count: 2
+integration:
+  occurrence_count: 17
+interface:
+  occurrence_count: 14
+io:
+  occurrence_count: 231
+javaee:
+  occurrence_count: 5
+javascript:
+  occurrence_count: 4
+javax:
+  occurrence_count: 1
+jaxrs:
+  occurrence_count: 13
+jboss:
+  occurrence_count: 58
+jca:
+  occurrence_count: 1
+jdbc:
+  occurrence_count: 13
+jenkins:
+  occurrence_count: 2
+jetty:
+  occurrence_count: 19
+jini:
+  occurrence_count: 1
+jms:
+  occurrence_count: 17
+jmx:
+  occurrence_count: 4
+jndi:
+  occurrence_count: 2
+jpa:
+  occurrence_count: 11
+jquery:
+  occurrence_count: 10
+jsf:
+  occurrence_count: 16
+json:
+  occurrence_count: 38
+jsp:
+  occurrence_count: 2
+junit:
+  occurrence_count: 20
+jwt:
+  occurrence_count: 1
+kafka:
+  occurrence_count: 9
+kotlin:
+  occurrence_count: 3
+kubernetes:
+  occurrence_count: 2
+launcher:
+  occurrence_count: 4
+ldap:
+  occurrence_count: 5
+leveldb:
+  occurrence_count: 1
+library:
+  occurrence_count: 38
+lightbend:
+  occurrence_count: 3
+linkedin:
+  occurrence_count: 4
+linux:
+  occurrence_count: 1
+loader:
+  occurrence_count: 4
+location:
+  occurrence_count: 3
+logging:
+  occurrence_count: 49
+lucene:
+  occurrence_count: 5
+machine-learning:
+  occurrence_count: 5
+macro:
+  occurrence_count: 6
+mail:
+  occurrence_count: 20
+management:
+  occurrence_count: 11
+manager:
+  occurrence_count: 10
+mapping:
+  occurrence_count: 8
+mapreduce:
+  occurrence_count: 3
+markdown:
+  occurrence_count: 3
+matching:
+  occurrence_count: 1
+math:
+  occurrence_count: 11
+maven:
+  occurrence_count: 127
+measurement:
+  occurrence_count: 1
+memory:
+  occurrence_count: 2
+message:
+  occurrence_count: 3
+messaging:
+  occurrence_count: 9
+metadata:
+  occurrence_count: 7
+metrics:
+  occurrence_count: 13
+microservices:
+  occurrence_count: 5
+migration:
+  occurrence_count: 1
+mime:
+  occurrence_count: 1
+mobile:
+  occurrence_count: 1
+mock:
+  occurrence_count: 7
+model:
+  occurrence_count: 25
+modeling:
+  occurrence_count: 2
+module:
+  occurrence_count: 61
+mongodb:
+  occurrence_count: 13
+monitor:
+  occurrence_count: 6
+monitoring:
+  occurrence_count: 8
+mqtt:
+  occurrence_count: 2
+mustache:
+  occurrence_count: 2
+mvc:
+  occurrence_count: 3
+mysql:
+  occurrence_count: 3
+naming:
+  occurrence_count: 2
+native:
+  occurrence_count: 4
+neo4j:
+  occurrence_count: 3
+netbeans:
+  occurrence_count: 11
+netty:
+  occurrence_count: 12
+network:
+  occurrence_count: 26
+nlp:
+  occurrence_count: 5
+nosql:
+  occurrence_count: 1
+notification:
+  occurrence_count: 3
+oauth:
+  occurrence_count: 13
+openid:
+  occurrence_count: 2
+openstack:
+  occurrence_count: 1
+orientdb:
+  occurrence_count: 1
+orm:
+  occurrence_count: 3
+osgi:
+  occurrence_count: 55
+parallel:
+  occurrence_count: 3
+parquet:
+  occurrence_count: 1
+parser:
+  occurrence_count: 15
+pattern:
+  occurrence_count: 3
+pdf:
+  occurrence_count: 3
+performance:
+  occurrence_count: 2
+persistence:
+  occurrence_count: 37
+physics:
+  occurrence_count: 2
+pipeline:
+  occurrence_count: 4
+platform:
+  occurrence_count: 13
+play-framework:
+  occurrence_count: 5
+plugin:
+  occurrence_count: 176
+pojo:
+  occurrence_count: 3
+policy:
+  occurrence_count: 4
+pooling:
+  occurrence_count: 4
+portal:
+  occurrence_count: 9
+portlet:
+  occurrence_count: 4
+postgresql:
+  occurrence_count: 7
+privacy:
+  occurrence_count: 1
+processor:
+  occurrence_count: 11
+profiling:
+  occurrence_count: 1
+prometheus:
+  occurrence_count: 3
+protocol:
+  occurrence_count: 33
+provider:
+  occurrence_count: 15
+proxy:
+  occurrence_count: 6
+python:
+  occurrence_count: 4
+query:
+  occurrence_count: 7
+queue:
+  occurrence_count: 34
+rabbitmq:
+  occurrence_count: 6
+rdf:
+  occurrence_count: 5
+reactive:
+  occurrence_count: 3
+reader:
+  occurrence_count: 2
+recorder:
+  occurrence_count: 1
+redis:
+  occurrence_count: 3
+reflection:
+  occurrence_count: 2
+regexp:
+  occurrence_count: 1
+registry:
+  occurrence_count: 5
+relational:
+  occurrence_count: 2
+remote:
+  occurrence_count: 14
+render:
+  occurrence_count: 1
+repl:
+  occurrence_count: 2
+report:
+  occurrence_count: 4
+reporter:
+  occurrence_count: 6
+reporting:
+  occurrence_count: 4
+repository:
+  occurrence_count: 8
+request:
+  occurrence_count: 2
+resource:
+  occurrence_count: 25
+rest:
+  occurrence_count: 35
+riak:
+  occurrence_count: 1
+rmi:
+  occurrence_count: 1
+routing:
+  occurrence_count: 6
+rpc:
+  occurrence_count: 14
+rss:
+  occurrence_count: 1
+ruby:
+  occurrence_count: 1
+rule-engine:
+  occurrence_count: 7
+rules:
+  occurrence_count: 6
+runner:
+  occurrence_count: 4
+runtime:
+  occurrence_count: 26
+s3:
+  occurrence_count: 3
+sbt:
+  occurrence_count: 6
+scala:
+  occurrence_count: 119
+scalajs:
+  occurrence_count: 16
+scalaz:
+  occurrence_count: 18
+scanning:
+  occurrence_count: 2
+scheduling:
+  occurrence_count: 5
+schema:
+  occurrence_count: 26
+scm:
+  occurrence_count: 8
+scripting:
+  occurrence_count: 6
+sdk:
+  occurrence_count: 49
+search:
+  occurrence_count: 17
+security:
+  occurrence_count: 17
+selenium:
+  occurrence_count: 3
+sensor:
+  occurrence_count: 3
+serialization:
+  occurrence_count: 20
+server:
+  occurrence_count: 101
+service:
+  occurrence_count: 63
+servlet:
+  occurrence_count: 20
+shell:
+  occurrence_count: 4
+signing:
+  occurrence_count: 4
+slf4j:
+  occurrence_count: 11
+sms:
+  occurrence_count: 2
+snmp:
+  occurrence_count: 2
+soa:
+  occurrence_count: 1
+soap:
+  occurrence_count: 5
+social:
+  occurrence_count: 2
+socket:
+  occurrence_count: 18
+solr:
+  occurrence_count: 6
+sonar:
+  occurrence_count: 13
+sorting:
+  occurrence_count: 1
+spark:
+  occurrence_count: 17
+sparql:
+  occurrence_count: 1
+specs:
+  occurrence_count: 15
+spreadsheet:
+  occurrence_count: 4
+spring:
+  occurrence_count: 81
+sql:
+  occurrence_count: 19
+sqlite:
+  occurrence_count: 1
+ssh:
+  occurrence_count: 4
+ssl:
+  occurrence_count: 1
+standard:
+  occurrence_count: 1
+starter:
+  occurrence_count: 26
+stm:
+  occurrence_count: 1
+storage:
+  occurrence_count: 10
+streaming:
+  occurrence_count: 31
+stub:
+  occurrence_count: 6
+styles:
+  occurrence_count: 1
+support:
+  occurrence_count: 18
+svg:
+  occurrence_count: 5
+swing:
+  occurrence_count: 9
+swt:
+  occurrence_count: 2
+sync:
+  occurrence_count: 5
+syndication:
+  occurrence_count: 1
+system:
+  occurrence_count: 6
+tabular:
+  occurrence_count: 5
+taglib:
+  occurrence_count: 3
+tags:
+  occurrence_count: 2
+tcp:
+  occurrence_count: 3
+template:
+  occurrence_count: 9
+testing:
+  occurrence_count: 142
+text:
+  occurrence_count: 6
+time:
+  occurrence_count: 5
+token:
+  occurrence_count: 2
+tomcat:
+  occurrence_count: 12
+toolkit:
+  occurrence_count: 1
+tools:
+  occurrence_count: 33
+tracing:
+  occurrence_count: 9
+tracking:
+  occurrence_count: 2
+transaction:
+  occurrence_count: 6
+transport:
+  occurrence_count: 11
+tree:
+  occurrence_count: 2
+twitter:
+  occurrence_count: 19
+typesafe:
+  occurrence_count: 26
+ui:
+  occurrence_count: 58
+uml:
+  occurrence_count: 4
+units:
+  occurrence_count: 1
+unix:
+  occurrence_count: 4
+uuid:
+  occurrence_count: 2
+validation:
+  occurrence_count: 16
+version-control:
+  occurrence_count: 1
+vertx:
+  occurrence_count: 13
+video:
+  occurrence_count: 2
+view:
+  occurrence_count: 4
+viewer:
+  occurrence_count: 2
+visualization:
+  occurrence_count: 3
+web:
+  occurrence_count: 316
+web-framework:
+  occurrence_count: 34
+webapp:
+  occurrence_count: 94
+webcam:
+  occurrence_count: 1
+webdav:
+  occurrence_count: 2
+webserver:
+  occurrence_count: 33
+webservice:
+  occurrence_count: 20
+websocket:
+  occurrence_count: 6
+wicket:
+  occurrence_count: 12
+wiki:
+  occurrence_count: 3
+workflow:
+  occurrence_count: 2
+x86:
+  occurrence_count: 2
+xml:
+  occurrence_count: 26
+xmpp:
+  occurrence_count: 3
+xslt:
+  occurrence_count: 1
+yarn:
+  occurrence_count: 5
+zeromq:
+  occurrence_count: 3
+zookeeper:
+  occurrence_count: 4
