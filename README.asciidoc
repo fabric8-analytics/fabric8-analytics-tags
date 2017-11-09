@@ -1,4 +1,4 @@
 = Tags for fabric8-analytics
 
-Plaease refer to link:https://github.com/fabric8-analytics/fabric8-analytics-tagger[tagger] for more information.
+Please refer to link:https://github.com/fabric8-analytics/fabric8-analytics-tagger[tagger] for more information.
 
